@@ -1,4 +1,4 @@
-# 3D-horror-godot
+# 3D-horror-proto
 An atmospheric horror game exploring liminal spaces and submechanophobia-related topics.
 
 Created in godot 4.
